@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pandagram</string>
+    <string name="phonenumber">+880***********</string>
+    <string name="password">password</string>
+    <string name="verification">An OTP will be sent in this number</string>
+    <string name="username">username</string>
+
+</resources>
